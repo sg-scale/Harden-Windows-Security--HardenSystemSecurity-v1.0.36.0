@@ -249,8 +249,8 @@
 		<PackageReference Include="runtime.win-x64.Microsoft.DotNet.ILCompiler" Version="10.0.1" />
 		<PackageReference Include="Microsoft.Identity.Client.NativeInterop" Version="0.19.4" />
 		<PackageReference Include="Microsoft.WindowsAppSDK.AI" Version="1.8.39" />
-		<PackageReference Include="Microsoft.WindowsAppSDK.Base" Version="1.8.250831001" />
-		<PackageReference Include="Microsoft.WindowsAppSDK.DWrite" Version="1.8.25090401" />
+		<PackageReference Include="Microsoft.WindowsAppSDK.Base" Version="2.6.5" />
+		<PackageReference Include="Microsoft.WindowsAppSDK.DWrite" Version="2.6.5" />
 		<PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.251104000" />
 		<PackageReference Include="Microsoft.WindowsAppSDK.InteractiveExperiences" Version="1.8.251104001" />
 		<PackageReference Include="Microsoft.WindowsAppSDK.Runtime" Version="1.8.251106002" />
@@ -258,7 +258,7 @@
 		<PackageReference Include="Microsoft.WindowsAppSDK.WinUI" Version="1.8.251105000" />
         <PackageReference Include="Microsoft.WindowsAppSDK.ML" Version="1.8.2109" />
 		<PackageReference Include="System.Numerics.Tensors" Version="10.0.1" />
-		<PackageReference Include="Microsoft.Windows.SDK.BuildTools.MSIX" Version="1.7.20250829.1">
+		<PackageReference Include="Microsoft.Windows.SDK.BuildTools.MSIX" Version="1.7.251221100">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
