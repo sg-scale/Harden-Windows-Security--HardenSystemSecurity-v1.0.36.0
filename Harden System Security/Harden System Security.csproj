@@ -241,7 +241,7 @@
 		<!-- Transitive Packages - Without these packages, there will not be compilation error related to missing types -->
 		<PackageReference Include="CommunityToolkit.WinUI.Extensions" Version="8.2.251219" />
 		<PackageReference Include="CommunityToolkit.WinUI.Helpers" Version="8.2.251219" />
-		<PackageReference Include="CommunityToolkit.Common" Version="8.4.0" />
+		<PackageReference Include="CommunityToolkit.Common" Version="8.4.2" />
 		<PackageReference Include="Microsoft.IdentityModel.Abstractions" Version="8.15.0" />
 		<PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3650.58" />
 		<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.7175" />
